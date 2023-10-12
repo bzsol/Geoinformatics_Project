@@ -16,6 +16,7 @@ function Feed() {
                     <p> <b>GeoJSON </b>felhasználásával kijelöltem a térképen egy vonalat (lila vonal) ahol most fognak felújítani illetve hogy négy sávos legyen a főút.</p>
                     <p>Ezen kívül kijelöltem Nyíregyháza sétálóutcáit, mellette az egyik leghíresebb városrészét Örökösföldet</p>
                     <p>Marker használatával kijelöltem pár híres nyíregyházi gyros-t áruló helyet, mivel itt bizony kiflivel eszik.</p>
+                    <p>Piros kört használva kijelöltem a kórházat, illetve fekete téglalappal pedig az egyik leghíresebb parkot a városban Bujtost </p>
                 </div>
             </div>
     </div>
